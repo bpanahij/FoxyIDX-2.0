@@ -86,7 +86,7 @@ class Welcome extends CI_Controller {
 
         $quotes = array(
             'quotes' => array(
-                array('author' => 'Roya Johnson', 'quote' => 'A site that makes it easy to have the best SEO to realtors would be invaluable.', 'href' => 'http://www.royarealty.com', 'company' => 'Roya Realty')
+                array('author' => 'Roya Johnson', 'quote' => 'A site that makes it easy to have the best SEO...for realtors would be invaluable.', 'href' => 'http://www.royarealty.com', 'company' => 'Roya Realty')
             )
         );
         $quotes = $this->parser->parse('quote_box', $quotes, true);
