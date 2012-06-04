@@ -2,7 +2,7 @@
     <div class="container_12">
         <div class="grid_12" id="header-container">
             <div id="logo">
-                <h1><a href="/" title="Go to the home page"><img width="100px" src="images/foxyidx_logo.png" alt="Logo" /></a></h1>
+                <h1><a href="/" title="Go to the home page"><img width="400px" src="images/foxyidx_logo.png" alt="Logo" /></a></h1>
             </div><!-- //logo -->
             <ul class="sf-menu">
                 <?php
